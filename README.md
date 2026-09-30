@@ -6,7 +6,6 @@ characterizing material properties relevant to drug delivery and implant design.
 ---
 
 ## Lab 1: Solubility of Biomaterials
-**[Full Report (PDF)](./BMES_460_Solubility_Lab-TH.pdf)**
 
 Investigated the solubility behavior of three biomedically relevant solutes — dextrose, 
 bovine serum albumin (BSA), and poly(lactic-co-glycolic acid) (PLGA) — across three 
@@ -26,7 +25,6 @@ governing dissolution.
 ---
 
 ## Lab 2: Modeling to Quantify Hydrogel Viscoelastic Properties
-**[Full Report (PDF)](./Hydrogel_Characterization-_Lab3-TH.pdf)**
 
 Characterized the viscoelastic behavior of gelatin hydrogels using stress relaxation 
 testing and mathematical modeling, to evaluate material behavior relevant to implant 

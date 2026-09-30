@@ -1,4 +1,4 @@
-##Modeling to Quantify Hydrogel Viscoelastic Properties
+## Modeling to Quantify Hydrogel Viscoelastic Properties
 
 Characterized the viscoelastic behavior of gelatin hydrogels using stress relaxation 
 testing and mathematical modeling, to evaluate material behavior relevant to implant 
